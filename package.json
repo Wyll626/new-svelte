@@ -23,8 +23,8 @@
     "vite": "^4.4.2"
   },
   "ampt": {
-    "org": "",
-    "app": "sveltekit"
+    "org": "willbaseleres853518",
+    "app": "new-svelte"
   },
   "type": "module",
   "dependencies": {
